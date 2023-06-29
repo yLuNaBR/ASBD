@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "nome": "Margherita",
+      "tamanho": "média",
+      "preco": 25.99,
+      "ingredientes": ["Molho de tomate", "Queijo mussarela", "Manjericão"]
+    },
+    {
+      "id": 2,
+      "nome": "Calabresa",
+      "tamanho": "grande",
+      "preco": 32.99,
+      "ingredientes": ["Molho de tomate", "Queijo mussarela", "Calabresa", "Cebola", "Orégano"]
+    },
+    {
+      "id": 3,
+      "nome": "Quatro Queijos",
+      "tamanho": "pequena",
+      "preco": 19.99,
+      "ingredientes": ["Molho de tomate", "Queijo mussarela", "Queijo provolone", "Queijo gorgonzola", "Queijo parmesão"]
+    }
+  ]
+  

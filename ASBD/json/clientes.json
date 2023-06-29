@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "nome": "João da Silva",
+      "endereco": "Rua A, 123, Bairro X",
+      "telefone": "(51) 212345678"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Santos",
+      "endereco": "Avenida B, 456, Bairro Y",
+      "telefone": "(51) 988874560"
+    }
+  ]
+  

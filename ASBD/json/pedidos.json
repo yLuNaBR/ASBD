@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "clienteId": 1,
+      "data": "2023-06-15T10:30:00",
+      "itens": [
+        {
+          "produtoId": 1,
+          "quantidade": 2
+        },
+        {
+          "produtoId": 2,
+          "quantidade": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "clienteId": 2,
+      "data": "2023-06-20T18:45:00",
+      "itens": [
+        {
+          "produtoId": 1,
+          "quantidade": 3
+        }
+      ]
+    }
+  ]
+  
